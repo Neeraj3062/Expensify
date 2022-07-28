@@ -1,0 +1,38 @@
+/* ====BASE==== */
+*,
+::after,
+::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  font-family: 'COMIC SANS MS';
+  overflow-x: hidden;
+  
+}
+
+ul,
+li,
+a,
+button {
+  text-decoration: none;
+  list-style: none;
+ 
+  
+}
+li:active
+{
+  color: 2=wheat;
+}
+h1,
+h2,
+h3,
+p {
+  margin: 0;
+}
+

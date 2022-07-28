@@ -1,0 +1,35 @@
+.navbar {
+  width: 100%;
+  background: rgb(0, 0, 0);
+}
+
+#brand {
+  color: rgb(49, 221, 49);
+  font-weight: 700;
+  font-size: 24px;
+}
+.navbar a {
+  font-weight: 600;
+  color: white;
+}
+
+.navbar a:hover {
+  color: rgb(92, 255, 92) !important ;
+}
+
+.navbar a:active {
+  color: antiquewhite !important;
+}
+
+.navbar-toggler i {
+  color: white;
+  font-size: 30px;
+}
+
+
+
+
+.ul_link
+{
+  cursor: pointer;
+}

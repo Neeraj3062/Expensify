@@ -1,0 +1,29 @@
+.notfound
+{
+   
+    height: 100vh;
+    text-align: center;
+    margin: 10px 0px;
+   
+
+}
+
+.notfound h2 
+{
+    font-weight: 700;
+    font-size: 2.2rem;
+    
+    text-transform: capitalize;
+
+}
+
+.notfound h3
+{
+    font-weight: 600;
+    font-size: 35px;
+}
+
+.error_img
+{
+    width: 300px;
+}

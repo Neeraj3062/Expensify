@@ -1,0 +1,23 @@
+
+.modal-backdrop {
+    position: fixed;
+    top: 33%;
+    left: 28%;
+    width: 50%;
+    height: 50%;
+    background: rgba(250, 150, 150, 0.9);
+  }
+  .modal {
+    padding: 30px;
+    max-width: 480px;
+    margin: 100px auto;
+    background: #fff;
+    border-radius: 10px;
+  }
+
+.modal-close
+{
+  position: relative;
+  top: -370px;
+  left: 220px;
+}

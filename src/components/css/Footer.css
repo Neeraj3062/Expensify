@@ -1,0 +1,44 @@
+.socials li
+{
+    display: inline-block;
+    padding: 10px;
+    
+
+}
+
+
+.socials i
+{
+    font-size:40px;
+    color: rgb(119, 216, 89);
+    
+}
+.cr
+{
+ 
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
+
+.lr
+{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 14px;
+  position: relative;
+  top: -7px;
+}
+
+
+.socials i:hover
+{
+  color: rgb(237, 253, 237);
+    
+}
+
+.footer
+{
+  background: rgb(0, 0, 0);
+  color: white;
+  margin-top:auto;
+  
+}

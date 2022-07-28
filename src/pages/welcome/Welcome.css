@@ -1,0 +1,57 @@
+
+.welcome .btn_rd
+{
+    background-color: #FFFC31;
+    font-weight: 700;
+}
+
+.bg-image
+{
+    background-image: url(./bg_g.jpg);
+    /* filter: blur(1px); */
+    background-size: contain;
+}
+.welcome_head
+{
+    
+    letter-spacing: 2px;
+    padding: 5px;
+    font-size: 28px;
+    font-weight: 700;
+    color: #FFFC31;
+}
+
+
+.bg_img_1 
+{
+    background-image: url(./bit.jpg);
+
+    background-size: contain;
+
+}
+
+.bg_img_2 
+{
+    background-image: url(./bit_2.jpg);
+    background-size: contain;
+}
+
+
+.bg_img_3
+{
+    background-image: url(./bit_3.jfif);
+    background-size: contain;
+}
+.container_blogs
+{
+    background: rgb(5, 4, 4);
+}
+
+.blog_head
+{
+    font-size: 35px;
+    font-weight: 700;
+    border-bottom: 10px solid beige;
+    margin: auto;
+    width: fit-content;
+}

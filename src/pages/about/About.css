@@ -1,0 +1,118 @@
+.about
+{
+    margin: 30px 0px;
+    height: 100vh;
+}
+.about h2
+{
+    text-align: center;
+    margin: auto;
+    max-width: 90vh;
+    padding-block: 7px;
+    font-size: 28px;
+    border-bottom: 5px solid black;
+
+    letter-spacing: 2px; 
+    width: fit-content;
+
+}    
+
+
+.about h3
+{
+    position: relative;
+    text-align: center;
+    margin: auto;
+    top: -40px;
+    font-weight: 600;
+    padding-block: 7px;
+    font-size: 22px;
+    letter-spacing: 8px; 
+    width: fit-content;
+
+}    
+
+
+.about p
+{
+    text-align: center;
+    margin: auto;
+    max-width: 90vh;
+    padding-block: 7px;
+    font-size: 18px;
+    position: relative;
+    top: -40px;
+    letter-spacing: 2px; 
+    width: fit-content;
+    
+
+}    
+
+
+.container_profile
+{
+    /* width: 40%; */
+    color: white;
+    background-color: rgb(10, 10, 10);
+}
+
+.container_profile h2
+{
+    text-align: center;
+    margin: auto;
+    max-width: 90vh;
+    padding-block: 7px;
+    font-size: 30px;
+    border-bottom: 5px solid rgb(152, 233, 98);
+    ;
+    letter-spacing: 2px; 
+    width: fit-content;
+}
+
+.container_profile .name
+{
+    font-size: 20px;
+    /* margin: auto; */
+    position: relative; 
+    /* text-decoration: underline; */
+    top: -30px;
+}
+
+.container_profile .btn-p
+{
+    background-color: rgb(209, 97, 97);
+    font-weight: 500;
+    color: white;
+    display: block;
+    width: 250px;
+    margin: auto;
+
+    border-radius: 20px ;
+    
+
+}   
+
+.socials li
+{
+    display: inline-block;
+    padding: 10px;
+    
+
+}
+.my_img
+{
+    border-radius: 12%;
+    margin-top: 10px;
+}
+
+.socials i
+{
+    font-size:40px;
+    color: rgb(238, 229, 229);
+    
+}
+.socials i:hover
+{
+  color: green;
+    
+}
